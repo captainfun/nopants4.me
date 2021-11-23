@@ -40,6 +40,9 @@
 [DriverPack Solution Online for Windows](https://filehippo.com/download_driverpack-solution-online/)
 - DriverPack Solution is a free utility that scans your PC to deliver the optimal drivers for you to install. DriverPack will give you replacement programs to install after the software identifies missing and outdated drivers. The application is offered as a Network, Online, and Offline download for Microsoft Windows 10, Windows 8.1, Windows 8, Windows 7, Windows Vista, and Windows XP computers and laptops.
 
+[RWEverything 1.7](https://www.majorgeeks.com/files/details/rweverything.html)
+- You will be able to access PCI (PCI Express), PCI Index/Data, Memory, Memory Index/Data, I/O Space, I/O Index/Data, Super I/O, Clock Generator, DIMM SPD, SMBus Device, CPU MSR Registers, ATA/ATAPI Identify Data, Disk Read Write, ACPI Tables Dump (include AML decode), Embedded Controller, USB Information, SMBIOS Structures, PCI Option ROMs, MP Configuration Table, E820, EDID and Remote Access. And also, a Command Window is provided to access hardware manually.
+
 
 ## Graphics Software
 
@@ -62,8 +65,21 @@
 [Rufus for Windows](https://rufus.ie/en/)
 - Rufus is a free, crowdsourced resource for creating bootable USBs. The program only works on Windows, but it can create ISO for software installation that works on Mac, Linux, and other operating systems. It also helps you to be able to import a new OS onto a computer that has none or an incomplete system step through a USB.
 
+[RMPrepUSB](https://rmprepusb.com/)
+- RMPrepUSB is a Windows 32-bit utility to partition and format a drive (especially USB drives).
+
+[Ventoy](https://www.ventoy.net/en/index.html)
+- A New Bootable USB Solution. [Ventoy WimISO](https://github.com/ventoy/wimiso/releases)
+
 [Microsoft Windows and Office ISO Download Tool](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)
 - This tool allows an easy and comfortable way to download genuine Windows 7, Windows 8.1 and Windows 10 disk images (ISO) directly from Microsoft's servers, as well as Office 2010, Office 2013, Office 2016, Office 2019, Expression Studio and Office for Mac.
+
+[theoven.org](https://theoven.org/)
+- Win10XPE Homepage - Win10XPE Home Forum and Support
+
+[WAIK Tools w/o downloading the huge ISOs](https://msfn.org/board/topic/156869-get-waik-tools-wo-downloading-the-huge-isos/)
+- Win10XPE Homepage - Win10XPE Home Forum and Support
+[WAIK Tools - rmprepusb](https://rmprepusb.com/tutorials/083-download-imagex-bcdboot-and-other-waik-tools-and-microsoft-binary-files/) [WAIK Tools - rwan's Blog](https://labalec.fr/erwan/?p=825) [Google Web Toolkit (GWT)](http://www.gwtproject.org/)
 
 
 ## Data Analysis
@@ -163,6 +179,9 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 
 [draw.io portable](https://portapps.io/app/drawio-portable/)
 - Free diagram software for making flowcharts, process diagrams, ...
+
+[DISM GUI 4.0 Utility – Free tool to manage WIM images](https://www.vladan.fr/dism-gui-4-0-utility/)
+- In case you want to add/remove drivers from \*.WIM images, there is a graphical interface for the DISM command line utility written in the .NET. It's called a DISM GUI 4.0 utility and allows you to mount and dismount WIMs, manage drivers, features and packages.
 
 
 
