@@ -56,8 +56,14 @@
 [K-Lite Codec Pack for Windows](https://filehippo.com/download_klite-codec-pack/)
 - K-Lite Codec Pack for Windows is a suite of audio and video codecs that allows the operating system software to play a massive number of multimedia formats that the OS doesn’t usually support. It also includes various related extra tools in the form of tweaks and options to further boost the viewing and listening experience.
 
+[XMedia Recode](https://xmedia-recode.de/en/)
+- XMedia Recode can convert almost all known audio and video formats, including 3GP, 3GPP, 3GPP2, AAC, AC3, ADTS, AMR, ASF, AVI, AVISynth, DVD, FLAC, FLV, H.261, H.263, H.264, H.265, M4A , M1V, M2V, M4V, Matroska (MKV), MMF, MPEG-1, MPEG-2, MPEG-4, TS, TRP, MP2, MP3, MP4, MP4V, MOV, QT, OGG, PSP, RM, (S ) VCD, SWF, VOB, WAV, WebM, WMA and WMV.
+
 [Format Factory for Windows](https://filehippo.com/download_format-factory/)
 - Format Factory is a leading file conversion software that lets you convert video and audio files from one format to another. Since most tools allow conversions for limited file types, this program is considered to be an excellent choice. It’s a multi-purpose application, letting you convert a wide range of file formats. As such, you can use the software to work with documents, audio tracks, video files, and the like.
+
+[OpenShot Video Editor](https://www.openshot.org/)
+- We designed OpenShot Video Editor to be an easy to use, quick to learn, and surprisingly powerful video editor. Take a quick look at some of our most popular features and capabilities.
 
 
 ## USB Tools
@@ -138,6 +144,9 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 [BlueStacks App Player for Windows](https://filehippo.com/download_bluestacks-app-player/)
 - BlueStacks App Player for PC is a desktop emulator software that offers the possibility to play Android games on PC. Although the BlueStacks App player can run any Android app, its features are mainly focused on improving the gaming experience of Android video games in Windows.
 
+[Visual Studio Code](https://code.visualstudio.com/)
+- Code editing. Redefined.
+
 
 ## Content Management
 
@@ -183,6 +192,17 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 [DISM GUI 4.0 Utility – Free tool to manage WIM images](https://www.vladan.fr/dism-gui-4-0-utility/)
 - In case you want to add/remove drivers from \*.WIM images, there is a graphical interface for the DISM command line utility written in the .NET. It's called a DISM GUI 4.0 utility and allows you to mount and dismount WIMs, manage drivers, features and packages.
 
+[VirtualMIDISynth](https://coolsoft.altervista.org/en/virtualmidisynth)
+- VirtualMIDISynth is a software MIDI synthesizer implemented as a Windows multimedia user driver, accessible as a standard MIDI Out device.
+
+[MVS 3.8j Tur(n)key 4- System](http://wotho.ethz.ch/tk4-/)
+- MVS 3.8j Tur(n)key 4- ("TK4-") is a ready to use OS/VS2 MVS 3.8j system built specifically to run under the Hercules System/370, ESA/390, and z/Architecture Emulator. It is an extension of the original MVS Tur(n)key Version 3 System ("TK3") created by Volker Bandke in 2002
+
+
+## Games
+
+[Rigs of Rods](https://rigsofrods.org/)
+- Rigs of Rods is a free and open source vehicle simulator that uses soft-body physics to simulate the motion destruction and deformation of vehicles.
 
 
 
