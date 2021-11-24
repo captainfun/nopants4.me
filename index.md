@@ -65,6 +65,9 @@
 [OpenShot Video Editor](https://www.openshot.org/)
 - We designed OpenShot Video Editor to be an easy to use, quick to learn, and surprisingly powerful video editor. Take a quick look at some of our most popular features and capabilities.
 
+[Blender 3d](https://www.blender.org/)
+- Blender's mission is to bring the best 3D technology as tools in the hands of artists, for all platforms, everywhere in the world, free and open source forever.
+
 
 ## USB Tools
 
@@ -147,6 +150,12 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 [Visual Studio Code](https://code.visualstudio.com/)
 - Code editing. Redefined.
 
+[JCrypTool (JCT)](https://www.cryptool.org/en/)
+- JCrypTool (JCT) is an open-source e-learning platform, allowing to experiment comprehensively with cryptography on Linux, macOS, and Windows.
+
+[Let’s Encrypt](https://letsencrypt.org/)
+- A nonprofit Certificate Authority providing TLS certificates to 260 million websites.
+
 
 ## Content Management
 
@@ -162,6 +171,9 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 [TorBrowser](https://www.torproject.org/download/)
 - Defend yourself. Protect yourself against tracking, surveillance, and censorship.
 
+[Hide.Me](https://hide.me/en/proxy)
+- Our free Web proxy allows you to unblock any blocked website. Just type the website address in the box and access any site you want.
+
 
 ## Databases
 
@@ -173,6 +185,37 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 
 [UUP dump](https://uupdump.net/)
 - Download UUP files from Windows Update servers with ease.
+
+
+## Encryption
+
+[Cryptomator](https://cryptomator.org/)
+- With Cryptomator, the key to your data is in your hands. Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
+
+[Duplicati](https://www.duplicati.com/)
+- Free backup software to store encrypted backups online for Windows, macOS and Linux
+
+[Veracrypt](https://www.veracrypt.fr/en/Downloads.html)
+- VeraCrypt is a free open source disk encryption software for Windows, Mac OSX and Linux.
+
+[DiskCryptor](https://diskcryptor.org/)
+- DiskCryptor is an open encryption solution that offers encryption of all disk partitions, including the system partition. The fact of openess goes in sharp contrast with the current situation, where most of the software with comparable functionality is completely proprietary, which makes it unacceptable to use for protection of confidential data.
+
+[Gpg4win](https://gpg4win.org/download.html)
+- GnuPG is a complete and free implementation of the OpenPGP standard as defined by RFC4880 (also known as PGP). GnuPG allows you to encrypt and sign your data and communications; it features a versatile key management system, along with access modules for all kinds of public key directories. GnuPG, also known as GPG, is a command line tool with features for easy integration with other applications. A wealth of frontend applications and libraries are available. GnuPG also provides support for S/MIME and Secure Shell (ssh).
+
+[Encrypto](https://macpaw.com/encrypto)
+- Encrypto lets you encrypt files before sending them to friends or coworkers. Drop a file into Encrypto, set a password, and then send it with added security.
+
+[AEScrypt](https://www.aescrypt.com/)
+- AES Crypt is a file encryption software available on several operating systems that uses the industry standard Advanced Encryption Standard (AES) to easily and securely encrypt files.
+
+[EncFS MP](https://encfsmp.sourceforge.io/)
+- With EncFS MP, you can store your data in an encrypted folder. This is especially important if you store your sensitive data in a cloud service like Dropbox or Google Drive.
+Since EncFS exists on many platforms, you can access your data from a Windows PC, from an Apple computer, from Linux (using the built-in EncFS), or even from an Android device (using Cryptonite).
+
+[Duplicati](https://www.duplicati.com/)
+- Free backup software to store encrypted backups online for Windows, macOS and Linux
 
 
 ## Misc
