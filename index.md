@@ -111,6 +111,8 @@
 [Power BI Desktop for Windows](https://filehippo.com/download_power-bi-desktop/)
 - Microsoft Power BI Desktop is a free companion app to their Power BI program, which is a subscription-based service. It allows you to unify data from multiple sources and create powerfully insightful data modelling and reports. It’s an advanced form of Microsoft Excel but this app combines the information into a central dashboard.
 
+[Tableau](https://www.tableau.com/community/public)
+- Tableau Public isn’t only a free platform for visualizing public data, it’s also where the Tableau Community can find limitless inspiration and learn from one another, but don’t just take our word for it.
 
 ## 'Hacking'
 
@@ -143,6 +145,12 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 
 [TeraCopy for Windows](https://filehippo.com/download_teracopy/)
 - TeraCopy is a program to copy and paste large files at a high speed. The program is used for frequent file transfers, large file sizes, moving files from separate hard drives. The program works on Windows XP, Windows 8, Windows 2003, Windows Vista, Windows 2000, and Windows 10. The program by Code Sector is a much more controlled way of transferring files.
+
+[ImageUSB](https://www.osforensics.com/tools/write-usb-images.html)
+- ImageUSB is a free utility which lets you write an image concurrently to multiple USB Flash Drives. Capable of creating exact bit-level copies of USB Flash Drive (UFDs), ImageUSB is an extremely effective tool for the mass duplication of UFDs. ImageUSB also supports writing of an ISO file byte by byte directly to an USB drive (*). ImageUSB can also be used to install OSFClone to a USB Drive for use with PassMark OSForensics™.
+
+[OSFMount](https://www.osforensics.com/tools/mount-disk-images.html)
+- OSFMount allows you to mount local disk image files (bit-for-bit copies of an entire disk or disk partition) in Windows as a physical disk or a logical drive letter. You can then analyze the disk image file with PassMark OSForensics™ by using the physical disk name (eg. \\.\PhysicalDrive1) or logical drive letter (eg. Z:).
 
 
 ## Development
@@ -223,6 +231,9 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 
 ## Misc
 
+[Resplendence](https://www.resplendence.com/downloads)
+- Products include Registrar Registry Manager, an advanced registry management solution for system administrators and power users, recommended by top experts in the industry.
+
 [Portapps.io](https://portapps.io/apps/)
 - Portapps is a collection of portable applications for Windows. You can download  your favorite application as a portable  setup or a 7z archive. Each portable app is executed through a wrapper  [appname]-portable.exe written in Golang.
 
@@ -243,6 +254,9 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 
 [MVS 3.8j Tur(n)key 4- System](http://wotho.ethz.ch/tk4-/)
 - MVS 3.8j Tur(n)key 4- ("TK4-") is a ready to use OS/VS2 MVS 3.8j system built specifically to run under the Hercules System/370, ESA/390, and z/Architecture Emulator. It is an extension of the original MVS Tur(n)key Version 3 System ("TK3") created by Volker Bandke in 2002
+
+[Docker Desktop](https://www.docker.com/products/docker-desktop)
+- The fastest way to containerize applications. 
 
 
 ## Games
