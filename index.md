@@ -43,6 +43,18 @@
 [RWEverything 1.7](https://www.majorgeeks.com/files/details/rweverything.html)
 - You will be able to access PCI (PCI Express), PCI Index/Data, Memory, Memory Index/Data, I/O Space, I/O Index/Data, Super I/O, Clock Generator, DIMM SPD, SMBus Device, CPU MSR Registers, ATA/ATAPI Identify Data, Disk Read Write, ACPI Tables Dump (include AML decode), Embedded Controller, USB Information, SMBIOS Structures, PCI Option ROMs, MP Configuration Table, E820, EDID and Remote Access. And also, a Command Window is provided to access hardware manually.
 
+[USB Device Tree Viewer](https://www.uwe-sieber.de/english.html)
+- USB Device Tree Viewer is a small application designed to display detailed information on the USB device tree.
+
+[USB Devices Viewer](https://github.com/vurdalakov/usbdevices)
+- USB Devices Viewer is a USB information tool for advanced users to determine USB devices, hubs, controllers, events, and all their properties.
+
+[USB Historian](http://4discovery.com/our-tools/)
+- USB Historian can parse your entire USB history from the Plug And Play history in your registry.
+
+[USB Oblivion](https://www.cherubicsoft.com/en/projects/usboblivion/)
+- USB Oblivion is designed to erase all traces of USB-connected drives and CD-ROMs from the registry in Windows. Video tutorial available.
+
 
 ## Graphics Software
 
@@ -97,7 +109,22 @@
 [WAIK Tools - rmprepusb](https://rmprepusb.com/tutorials/083-download-imagex-bcdboot-and-other-waik-tools-and-microsoft-binary-files/) [WAIK Tools - rwan's Blog](https://labalec.fr/erwan/?p=825) [Google Web Toolkit (GWT)](http://www.gwtproject.org/)
 
 [SARDU](https://www.sarducd.it/downloads)
-- Create USB Flash Drives MultiBoot with multiple windows installer, virus removals, unlimited Linux distributions, utilities and more BIOS Legacy Mode and UEFI boot, on PC and Mac x86 Always up to date: automatic remote update for registered or PRO users
+- Create USB Flash Drives MultiBoot with multiple windows installer, virus removals, unlimited Linux distributions, utilities and more BIOS Legacy Mode and UEFI boot, on PC and Mac x86 Always up to date: automatic remote update for registered or PRO users.
+
+[Bootable USB Test](https://wintoflash.com/download/en/)
+- Convenient method to test a bootable USB drive for bootup. It is easy to use, powerful and intuitive, does not require installation and it is small in size. Its most important advantage is that it enables you to check the USB drive without having to go through two system restarts.
+
+[Easy2Boot](http://www.easy2boot.xyz/)
+- E2B – the free USB multiboot solution for professionals - Legacy/UEFI64/UEFI32/Secure Boot.
+
+[YUMI 0.0.4.3 UEFI / 2.0.9.3 BIOS](https://www.pendrivelinux.com/)
+- YUMI helps create a multiboot USB flash drive containing multiple operating systems, antivirus utilities, diagnostic tools, disc cloning, and more.
+
+[WinToFlash](http://wintoflash.com/home/en/)
+- WinToFlash is powerful app for bootable USB creation with millions of satisfied users all around the globe.
+
+[RMPrepUSB](https://rmprepusb.com/)
+- RMPrepUSB is a Windows 32-bit utility to partition and format a drive (especially USB drives).
 
 
 ## Data Analysis
@@ -237,6 +264,9 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 [Portapps.io](https://portapps.io/apps/)
 - Portapps is a collection of portable applications for Windows. You can download  your favorite application as a portable  setup or a 7z archive. Each portable app is executed through a wrapper  [appname]-portable.exe written in Golang.
 
+[NirSoft](https://www.nirsoft.net/)
+- NirSoft web site provides a unique collection of small and useful freeware utilities, all of them developed by Nir Sofer.
+
 [Franz 5](https://meetfranz.com/)
 - Franz is your messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more.
 
@@ -255,8 +285,39 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 [MVS 3.8j Tur(n)key 4- System](http://wotho.ethz.ch/tk4-/)
 - MVS 3.8j Tur(n)key 4- ("TK4-") is a ready to use OS/VS2 MVS 3.8j system built specifically to run under the Hercules System/370, ESA/390, and z/Architecture Emulator. It is an extension of the original MVS Tur(n)key Version 3 System ("TK3") created by Volker Bandke in 2002
 
-[Docker Desktop](https://www.docker.com/products/docker-desktop)
+[Digital Forensic Tools](https://www.docker.com/products/docker-desktop)
+- Digital Forensic Tools. 
+
+[Docker Desktop](http://4discovery.com/our-tools/)
 - The fastest way to containerize applications. 
+
+
+## Forensics
+
+[Lazesoft Recovery Suite Home Edition](https://www.lazesoft.com/index.html)
+- Lazesoft Recovery Suite is useful when you need to recover your data, files, or Windows operating system, or when your computer will not start normally.
+
+[UndeleteMyFiles Pro](https://seriousbit.com/undeletemyfiles)
+- UndeleteMyFiles is a quick and easy way to find and recover deleted media and digital devices.It employs a simplified two-step process that enables you recover any files that used to reside on your system.
+
+[ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html)
+- ShadowCopyView is simple tool for Windows 10/8/7/Vista that lists the snapshots of your hard drive created by the 'Volume Shadow Copy' service of Windows.
+
+[Glary Utilities](https://www.glarysoft.com/)
+- The Glary Undelete application was designed to be an easy-to-use yet powerful data recovery solution for FAT and NTFS file systems.
+
+[Runtime's ShadowCopy](https://www.majorgeeks.com/files/details/runtimes_shadowcopy.html)
+- Runtime's ShadowCopy Utilizes Windows' Volume Shadow Services, enabling you to obtain copies of files even if they are in-use or rendered unavailable by Windows. It will prove useful when you need to make backups but do not want to close any of your applications or documents.
+
+[Runtime Software](https://www.runtime.org/data-recovery-products.htm)
+- DriveImage XML, WinPE Boot Medium, Runtime Live CD, GetBackData
+
+[Disk Investigator](https://www.majorgeeks.com/files/details/disk_investigator.html)
+- TDisk Investigator can display the true drive contents by bypassing the operating system and directly reading the raw drive sectors.
+
+[TestDisk and PhotoRec](http://www.cgsecurity.org/)
+- TestDisk is aimed at recovering lost partitions, making non-booting disks bootable due to software issues, viruses as well as human error.
+
 
 
 ## Games
