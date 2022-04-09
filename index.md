@@ -326,6 +326,12 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 - Rigs of Rods is a free and open source vehicle simulator that uses soft-body physics to simulate the motion destruction and deformation of vehicles.
 
 
+## General Tools
+[Dns Jumper v2.2](https://www.sordum.org/7952/)
+- In some cases, you can improve browsing speed and/or improve your security by replacing the DNS provided by your internet service provider. DNS Jumper is a tool which makes this easy for you.
+
+[dnsperf.com](https://www.dnsperf.com/#!dns-resolvers,Oceania)
+- DNS Performance Checker.
 
 
 
