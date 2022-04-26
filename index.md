@@ -19,6 +19,8 @@
 [Free PDF Editor](http://www.freepdfeditor.net/)
 - Do you need create PDF documents? As one of the most popular exchange documents, PDF become one very important document format, but the process of creating PDF documents is not very easy for everyone, so this program "Free PDF Editor" be developed. This is one completely free and simple PDF editing and creating software, it can help you to create your pdf documents by yourself in minutes, no need any complex setting and knowledge about PDF format, handy and easy to use very much, specially for beginners.
 
+[PDFsam basic](https://pdfsam.org/download-pdfsam-basic/)
+
 
 ## System Information
 
@@ -79,6 +81,12 @@
 
 [Blender 3d](https://www.blender.org/)
 - Blender's mission is to bring the best 3D technology as tools in the hands of artists, for all platforms, everywhere in the world, free and open source forever.
+
+[Inkscape](https://inkscape.org/)
+- Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
+
+[Google Web Designer](https://webdesigner.withgoogle.com/)
+- Google Web Designer gives you the power to create beautiful, engaging HTML5 content. Use animation and interactive elements to bring your creative vision to life, and enjoy seamless integration with other Google products, like Google Drive, Display & Video 360, and Google Ads.
 
 
 ## ISO Tools
@@ -318,6 +326,8 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 [TestDisk and PhotoRec](http://www.cgsecurity.org/)
 - TestDisk is aimed at recovering lost partitions, making non-booting disks bootable due to software issues, viruses as well as human error.
 
+[Recuva](https://www.runtime.org/data-recovery-products.htm)
+- Recuva is a freeware program that helps the user restore files that have been deleted from the computer.
 
 
 ## Games
@@ -333,11 +343,18 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 [dnsperf.com](https://www.dnsperf.com/#!dns-resolvers,Oceania)
 - DNS Performance Checker.
 
+[Free HTML Editor](https://www.coffeecup.com/free-editor/)
+
 
 ## Domain Tools
 [https://tld-list.com/tld/me](https://tld-list.com/tld/me)
 https://www.domnest.com/tld/me
 https://www.domcomp.com/tld/me
+
+
+## Open Data & APIs
+(https://www.programmableweb.com/)
+(https://securityintelligence.com/articles/10-open-source-intelligence-tools-existing-security-software/)
 
 
 
