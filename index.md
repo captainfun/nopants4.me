@@ -87,10 +87,8 @@
 
 |Package | Description|
 |--- | ---|
-|[MISP - Open Source Threat Intelligence Platform &
-Open Standards For Threat Information Sharing](https://www.misp-project.org/download/#virtualbox)|The MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators. A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information.|
-|[Structured Threat Information Expression (STIX™) & Trusted Automated Exchange of Intelligence Information (TAXII™)](https://oasis-open.github.io/cti-documentation/)
-|Structured Threat Information Expression (STIX™) is a language and serialization format used to exchange cyber threat intelligence (CTI). Trusted Automated Exchange of Intelligence Information (TAXII™) is an application layer protocol for the communication of cyber threat information in a simple and scalable manner.|
+|[MISP - Open Source Threat Intelligence Platform & Open Standards For Threat Information Sharing](https://www.misp-project.org/download/#virtualbox)|The MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators. A threat intelligence platform for gathering, sharing, storing and correlating Indicators of Compromise of targeted attacks, threat intelligence, financial fraud information, vulnerability information or even counter-terrorism information.|
+|[Structured Threat Information Expression (STIX™) & Trusted Automated Exchange of Intelligence Information (TAXII™)](https://oasis-open.github.io/cti-documentation/)|Structured Threat Information Expression (STIX™) is a language and serialization format used to exchange cyber threat intelligence (CTI). Trusted Automated Exchange of Intelligence Information (TAXII™) is an application layer protocol for the communication of cyber threat information in a simple and scalable manner.|
 |[Wireshark 64-bit for Windows](https://filehippo.com/download_wireshark_64/)|Wireshark is the world's foremost network protocol analyzer, and is the de facto standard across many industries and educational institutions.|
 |[Cisco Packet Tracer for Windows](https://filehippo.com/download_packet-tracer/)|Cisco Packet Tracer is a cross-platform network simulation tool that allows you to arrange nodes and connecting lines and emulate computer networks. The software serves as an educational tool for Certified Cisco Network Associate students. But, advanced users can also use this to create network topologies and learn fundamental CCNA concepts. You can use this to simulate the configuration of Cisco routers and switches. The program presents a model of a command-line interface where you can drag and drop network devices as you see fit. This will help you understand network behavior and possibly discover new network ideas.|
 |[MVT (Mobile Verification Toolkit)](https://github.com/mvt-project/mvt)|MVT (Mobile Verification Toolkit) helps conducting forensics of mobile devices in order to find signs of a potential compromise.|
@@ -140,7 +138,7 @@ Open Standards For Threat Information Sharing](https://www.misp-project.org/down
 
 |Package | Description|
 |--- | ---|
-|[DBeaver™ portable](https://portapps.io/app/dbeaver-portable/)|- A free universal database tool and SQL client.|
+|[DBeaver™ portable](https://portapps.io/app/dbeaver-portable/)|A free universal database tool and SQL client.|
 
 
 ## Encryption
