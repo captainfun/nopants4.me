@@ -3,27 +3,20 @@
 
 ## PDF Software
 
-[Icecream PDF Editor](https://icecreamapps.com/PDF-Editor/)
-- Meet Icecream PDF Editor – intuitive free PDF editor for Windows that enables you to create and edit PDF files. Make use of 4 major PDF editing modes: Edit, Annotate, Manage pages and Fill in forms. You can edit text and objects, add notes, manage pages, merge PDFs, protect files, and much more with the PDF editor.
-
-[PDF Shaper Free for Windows](https://filehippo.com/download_pfd-shaper-free/post_download/)
-- PDF editing is very simple with the various tools this utility has on offer. You can rotate or delete individual pages or layouts, extract or crop pages using custom sizes, and split or merge pages and documents. All from within an intuitive user interface.
-- Extract specified elements such as text, tables, and images.
-
-[Tracker Software :: PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor)
-- PDF-XChange Editor has more than 250 features that you can use to perform a huge range of operations on PDF documents
-
-[PDFedit - pdf manipulating library, GUI, tools](http://pdfedit.cz/en/pdfedit_windows.html)
-- PDFedit gui is based on a project led by Jozef Misutka implemented by Eva Peskova and based on pdfedit library. It is still in beta state and we just establisthed the development process.
-
-[Free PDF Editor](http://www.freepdfeditor.net/)
-- Do you need create PDF documents? As one of the most popular exchange documents, PDF become one very important document format, but the process of creating PDF documents is not very easy for everyone, so this program "Free PDF Editor" be developed. This is one completely free and simple PDF editing and creating software, it can help you to create your pdf documents by yourself in minutes, no need any complex setting and knowledge about PDF format, handy and easy to use very much, specially for beginners.
-
-[PDFsam basic](https://pdfsam.org/download-pdfsam-basic/)
+|Package | Description|
+|--- | ---|
+|[Icecream PDF Editor](https://icecreamapps.com/PDF-Editor/)|Meet Icecream PDF Editor – intuitive free PDF editor for Windows that enables you to create and edit PDF files. Make use of 4 major PDF editing modes: Edit, Annotate, Manage pages and Fill in forms. You can edit text and objects, add notes, manage pages, merge PDFs, protect files, and much more with the PDF editor.|
+|[PDF Shaper Free for Windows](https://filehippo.com/download_pfd-shaper-free/post_download/)|PDF editing is very simple with the various tools this utility has on offer. You can rotate or delete individual pages or layouts, extract or crop pages using custom sizes, and split or merge pages and documents. All from within an intuitive user interface. Extract specified elements such as text, tables, and images.|
+|[Tracker Software :: PDF-XChange Editor](https://www.tracker-software.com/product/pdf-xchange-editor)|PDF-XChange Editor has more than 250 features that you can use to perform a huge range of operations on PDF documents|
+|[PDFedit - pdf manipulating library, GUI, tools](http://pdfedit.cz/en/pdfedit_windows.html)|PDFedit gui is based on a project led by Jozef Misutka implemented by Eva Peskova and based on pdfedit library. It is still in beta state and we just establisthed the development process.|
+|[Free PDF Editor](http://www.freepdfeditor.net/)|Do you need create PDF documents? As one of the most popular exchange documents, PDF become one very important document format, but the process of creating PDF documents is not very easy for everyone, so this program "Free PDF Editor" be developed. This is one completely free and simple PDF editing and creating software, it can help you to create your pdf documents by yourself in minutes, no need any complex setting and knowledge about PDF format, handy and easy to use very much, specially for beginners.|
+|[PDFsam basic](https://pdfsam.org/download-pdfsam-basic/)||
 
 
 ## System Information
 
+|Package | Description|
+|--- | ---|
 [Belarc Advisor for Windows](https://filehippo.com/download_belarc-advisor/post_download/)
 - Belarc Advisor builds a detailed profile of your installed software and hardware, including Microsoft Hotfixes and software serial numbers. After collating all the data, it then shows the results in your Web browser. All of your PC profile information is kept private on your PC and is not sent to any Web server.
 
@@ -60,6 +53,8 @@
 
 ## Graphics Software
 
+|Package | Description|
+|--- | ---|
 [PDF Shaper Free for Windows](https://filehippo.com/download_pfd-shaper-free/post_download/)
 - PDF editing is very simple with the various tools this utility has on offer. You can rotate or delete individual pages or layouts, extract or crop pages using custom sizes, and split or merge pages and documents. All from within an intuitive user interface.
 - Extract specified elements such as text, tables, and images.
@@ -91,12 +86,16 @@
 
 ## ISO Tools
 
+|Package | Description|
+|--- | ---|
 [UUP dump](https://uupdump.net/)
 - Download UUP files from Windows Update servers with ease.
 
 
 ## USB Tools
 
+|Package | Description|
+|--- | ---|
 [Rufus for Windows](https://rufus.ie/en/)
 - Rufus is a free, crowdsourced resource for creating bootable USBs. The program only works on Windows, but it can create ISO for software installation that works on Mac, Linux, and other operating systems. It also helps you to be able to import a new OS onto a computer that has none or an incomplete system step through a USB.
 
@@ -137,6 +136,8 @@
 
 ## Data Analysis
 
+|Package | Description|
+|--- | ---|
 [Weka for Windows](https://filehippo.com/download_weka/)
 - Weka is a comprehensive data mining tool with a huge collection of machine learning algorithms. Its primary objective is to solve real-world data mining problems. Users can apply the algorithms directly to a data set or call them from custom Java code. The app comes with all the tools required for data classification, clustering, pre-processing, regression, visualisation, association rules, and more. The program can be used to develop new ML (machine learning) schemes.
 
@@ -151,6 +152,8 @@
 
 ## 'Hacking'
 
+|Package | Description|
+|--- | ---|
 [MISP - Open Source Threat Intelligence Platform &
 Open Standards For Threat Information Sharing](https://www.misp-project.org/download/#virtualbox)
 - The MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.
@@ -172,6 +175,8 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 
 ## File Tools
 
+|Package | Description|
+|--- | ---|
 [HxD Hex Editor for Windows](https://filehippo.com/download_hxd-hex-editor/)
 - HxD Hex Editor is a free hexadecimal, disk, and memory editor for computer code. The HxD editor can be used as a file manager that lets you compare, edit, export, import, shred, and split files. The freeware is capable of opening and converting large files. HxD is a powerful program, filled with features, for Microsoft Windows PC desktops.
 
@@ -190,6 +195,8 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 
 ## Development
 
+|Package | Description|
+|--- | ---|
 [XAMPP for Windows](https://filehippo.com/download_xampp/)
 - XAMPP is an open-source web development application distributed by Apache Friends, offering an entire development stack in one package. XAMPP comes with Apache HTTP, MariaDB, and interpreters for PHP and Perl. This makes XAMPP a quick way to deploy web development solutions even on a localhost. This all-in-one package is a flexible solution for new developers or teams who need to test new products quickly.
 
@@ -211,23 +218,16 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 
 ## Content Management
 
+|Package | Description|
+|--- | ---|
 [WordPress for Windows](https://filehippo.com/download_wordpress/)
 - Wordpress is a free open source software that offers tools to create websites, blogs, or even mobile apps. Using a number of themes and tools available, one can easily customize their website or blog, to create something unique and personalized. For small businesses too, making websites through Wordpress is easy and hassle-free.
 
 
 ## Browsers
 
-[Brave for Windows](https://filehippo.com/download_brave-browser/)
-- Brave is the brainchild of Brendan Eich (co-founder of the Mozilla Project). It’s a ultra secure, open source web browser that is based upon Chromium/Blink engine, and it aims to block website trackers and remove intrusive internet ads. In doing so, it will replace them with ads that are sold by Eich's company.
-
-[TorBrowser](https://www.torproject.org/download/)
-- Defend yourself. Protect yourself against tracking, surveillance, and censorship.
-
-[Hide.Me](https://hide.me/en/proxy)
-- Our free Web proxy allows you to unblock any blocked website. Just type the website address in the box and access any site you want.
-
 |Package | Description|
-|--- |--- |
+|--- | ---|
 |[Brave for Windows](https://filehippo.com/download_brave-browser/)|Brave is the brainchild of Brendan Eich (co-founder of the Mozilla Project). It’s a ultra secure, open source web browser that is based upon Chromium/Blink engine, and it aims to block website trackers and remove intrusive internet ads. In doing so, it will replace them with ads that are sold by Eich's company.|
 |[TorBrowser](https://www.torproject.org/download/)|Defend yourself. Protect yourself against tracking, surveillance, and censorship.|
 |[Hide.Me](https://hide.me/en/proxy)|Our free Web proxy allows you to unblock any blocked website. Just type the website address in the box and access any site you want.|
@@ -235,12 +235,16 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 
 ## Databases
 
-[DBeaver™ portable](https://portapps.io/app/dbeaver-portable/)
-- A free universal database tool and SQL client.
+
+|Package | Description|
+|--- | ---|
+|[DBeaver™ portable](https://portapps.io/app/dbeaver-portable/)|- A free universal database tool and SQL client.|
 
 
 ## Encryption
 
+|Package | Description|
+|--- | ---|
 [Cryptomator](https://cryptomator.org/)
 - With Cryptomator, the key to your data is in your hands. Cryptomator encrypts your data quickly and easily. Afterwards you upload them protected to your favorite cloud service.
 
@@ -272,6 +276,8 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 
 ## Misc
 
+|Package | Description|
+|--- | ---|
 [Resplendence](https://www.resplendence.com/downloads)
 - Products include Registrar Registry Manager, an advanced registry management solution for system administrators and power users, recommended by top experts in the industry.
 
@@ -308,6 +314,8 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 
 ## Forensics
 
+|Package | Description|
+|--- | ---|
 [Lazesoft Recovery Suite Home Edition](https://www.lazesoft.com/index.html)
 - Lazesoft Recovery Suite is useful when you need to recover your data, files, or Windows operating system, or when your computer will not start normally.
 
@@ -338,11 +346,15 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 
 ## Games
 
+|Package | Description|
+|--- | ---|
 [Rigs of Rods](https://rigsofrods.org/)
 - Rigs of Rods is a free and open source vehicle simulator that uses soft-body physics to simulate the motion destruction and deformation of vehicles.
 
 
 ## General Tools
+|Package | Description|
+|--- | ---|
 [Dns Jumper v2.2](https://www.sordum.org/7952/)
 - In some cases, you can improve browsing speed and/or improve your security by replacing the DNS provided by your internet service provider. DNS Jumper is a tool which makes this easy for you.
 
@@ -353,12 +365,16 @@ Since EncFS exists on many platforms, you can access your data from a Windows PC
 
 
 ## Domain Tools
+|Package | Description|
+|--- | ---|
 [https://tld-list.com/tld/me](https://tld-list.com/tld/me)
 https://www.domnest.com/tld/me
 https://www.domcomp.com/tld/me
 
 
 ## Open Data & APIs
+|Package | Description|
+|--- | ---|
 (https://www.programmableweb.com/)
 (https://securityintelligence.com/articles/10-open-source-intelligence-tools-existing-security-software/)
 
