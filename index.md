@@ -34,31 +34,21 @@
 
 |Package | Description|
 |--- | ---|
-|[PDF Shaper Free for Windows](https://filehippo.com/download_pfd-shaper-free/post_download/)
-|PDF editing is very simple with the various tools this utility has on offer. You can rotate or delete individual pages or layouts, extract or crop pages using custom sizes, and split or merge pages and documents. All from within an intuitive user interface. Extract specified elements such as text, tables, and images.|
+|[PDF Shaper Free for Windows](https://filehippo.com/download_pfd-shaper-free/post_download/)|PDF editing is very simple with the various tools this utility has on offer. You can rotate or delete individual pages or layouts, extract or crop pages using custom sizes, and split or merge pages and documents. All from within an intuitive user interface. Extract specified elements such as text, tables, and images.|
+|[Graphic Design Shop for Windows](https://filehippo.com/download_graphicdesignshop/)|Designing graphics is easy in Window Maker, a powerful desktop publishing application from Microsoft. Design anything from complex, professional-looking icons and files for websites, brochures, business cards, mouse pads and much more. Choose from a large range of fonts and graphics, from simple patterns to elegant ones, from premade templates to ones you design yourself, with the power of dozens of paint brushes, and hundreds of effects to enhance your work. Simply make your choice, adjust the size and color of everything to taste, then save and share it with others or use it for yourself.|
 
-|[Graphic Design Shop for Windows](https://filehippo.com/download_graphicdesignshop/)
-|Designing graphics is easy in Window Maker, a powerful desktop publishing application from Microsoft. Design anything from complex, professional-looking icons and files for websites, brochures, business cards, mouse pads and much more. Choose from a large range of fonts and graphics, from simple patterns to elegant ones, from premade templates to ones you design yourself, with the power of dozens of paint brushes, and hundreds of effects to enhance your work. Simply make your choice, adjust the size and color of everything to taste, then save and share it with others or use it for yourself.|
+|[K-Lite Codec Pack for Windows](https://filehippo.com/download_klite-codec-pack/)|K-Lite Codec Pack for Windows is a suite of audio and video codecs that allows the operating system software to play a massive number of multimedia formats that the OS doesn’t usually support. It also includes various related extra tools in the form of tweaks and options to further boost the viewing and listening experience.|
 
-|[K-Lite Codec Pack for Windows](https://filehippo.com/download_klite-codec-pack/)
-|K-Lite Codec Pack for Windows is a suite of audio and video codecs that allows the operating system software to play a massive number of multimedia formats that the OS doesn’t usually support. It also includes various related extra tools in the form of tweaks and options to further boost the viewing and listening experience.|
+|[XMedia Recode](https://xmedia-recode.de/en/)|XMedia Recode can convert almost all known audio and video formats, including 3GP, 3GPP, 3GPP2, AAC, AC3, ADTS, AMR, ASF, AVI, AVISynth, DVD, FLAC, FLV, H.261, H.263, H.264, H.265, M4A , M1V, M2V, M4V, Matroska (MKV), MMF, MPEG-1, MPEG-2, MPEG-4, TS, TRP, MP2, MP3, MP4, MP4V, MOV, QT, OGG, PSP, RM, (S ) VCD, SWF, VOB, WAV, WebM, WMA and WMV.|
 
-|[XMedia Recode](https://xmedia-recode.de/en/)
-|XMedia Recode can convert almost all known audio and video formats, including 3GP, 3GPP, 3GPP2, AAC, AC3, ADTS, AMR, ASF, AVI, AVISynth, DVD, FLAC, FLV, H.261, H.263, H.264, H.265, M4A , M1V, M2V, M4V, Matroska (MKV), MMF, MPEG-1, MPEG-2, MPEG-4, TS, TRP, MP2, MP3, MP4, MP4V, MOV, QT, OGG, PSP, RM, (S ) VCD, SWF, VOB, WAV, WebM, WMA and WMV.|
+|[Format Factory for Windows](https://filehippo.com/download_format-factory/)|Format Factory is a leading file conversion software that lets you convert video and audio files from one format to another. Since most tools allow conversions for limited file types, this program is considered to be an excellent choice. It’s a multi-purpose application, letting you convert a wide range of file formats. As such, you can use the software to work with documents, audio tracks, video files, and the like.|
 
-|[Format Factory for Windows](https://filehippo.com/download_format-factory/)
-|Format Factory is a leading file conversion software that lets you convert video and audio files from one format to another. Since most tools allow conversions for limited file types, this program is considered to be an excellent choice. It’s a multi-purpose application, letting you convert a wide range of file formats. As such, you can use the software to work with documents, audio tracks, video files, and the like.|
+|[OpenShot Video Editor](https://www.openshot.org/)|We designed OpenShot Video Editor to be an easy to use, quick to learn, and surprisingly powerful video editor. Take a quick look at some of our most popular features and capabilities.|
 
-|[OpenShot Video Editor](https://www.openshot.org/)
-|We designed OpenShot Video Editor to be an easy to use, quick to learn, and surprisingly powerful video editor. Take a quick look at some of our most popular features and capabilities.|
+|[Blender 3d](https://www.blender.org/)|Blender's mission is to bring the best 3D technology as tools in the hands of artists, for all platforms, everywhere in the world, free and open source forever.|
+|[Inkscape](https://inkscape.org/)|Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.|
 
-|[Blender 3d](https://www.blender.org/)|
-Blender's mission is to bring the best 3D technology as tools in the hands of artists, for all platforms, everywhere in the world, free and open source forever.|
-|[Inkscape](https://inkscape.org/)
-|Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.|
-
-|[Google Web Designer](https://webdesigner.withgoogle.com/)
-|Google Web Designer gives you the power to create beautiful, engaging HTML5 content. Use animation and interactive elements to bring your creative vision to life, and enjoy seamless integration with other Google products, like Google Drive, Display & Video 360, and Google Ads.|
+|[Google Web Designer](https://webdesigner.withgoogle.com/)|Google Web Designer gives you the power to create beautiful, engaging HTML5 content. Use animation and interactive elements to bring your creative vision to life, and enjoy seamless integration with other Google products, like Google Drive, Display & Video 360, and Google Ads.|
 
 
 ## ISO Tools
