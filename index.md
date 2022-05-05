@@ -17,79 +17,55 @@
 
 |Package | Description|
 |--- | ---|
-[Belarc Advisor for Windows](https://filehippo.com/download_belarc-advisor/post_download/)
-- Belarc Advisor builds a detailed profile of your installed software and hardware, including Microsoft Hotfixes and software serial numbers. After collating all the data, it then shows the results in your Web browser. All of your PC profile information is kept private on your PC and is not sent to any Web server.
-
-[DriverIdentifier for Windows](https://filehippo.com/download_driveridentifier/)
-- DriverIdentifier is a free system utility tool that can scan and identify missing and old drivers on your Windows computer. It provides users with a list of available driver updates that users can compare and install. DriverIdentifier download doesn’t install drivers on its own. Instead, it redirects you to the website on which the driver update is available so that you can download the latest version yourself.
-
-[Speccy for Windows](https://filehippo.com/download_speccy/)
-- Speccy is a free evaluation tool for Microsoft Windows PC components. The application delivers detailed system information reports on the individual software and hardware elements in the computer or laptop: ‘Audio’, ‘CPU’, ‘Graphics’, ‘Motherboard’, ‘Network’, ‘Operating System’, ‘Optical Drives’, ‘Peripherals’, ‘RAM’, and ‘Storage’. You can review a thorough summary within the first tab in the user interface.
-
-[HWiNFO for Windows](https://filehippo.com/download_hwinfo/)
-- HWiNFO is an app for IT professionals to check systems in real-time and to find in-depth hardware information. The app presents this information in a variety of formats. It also provides status logins, can integrate with other tools, and is also compatible with DOS systems. An alternative program to diagnose hardware problems is CPU-Z.
-
-[CPU-Z for Windows](https://filehippo.com/download_cpu-z/)
-- CPU-Z for Windows is a troubleshooting tool to identify PC hardware problems. You’re provided with information such as the CPU type, processing power, number of cores, architecture, clock speed, RAM and GPU details in a table format. You can scroll up and down the table to read the details of your OS systems in one convenient, centralized place.
-
-[DriverPack Solution Online for Windows](https://filehippo.com/download_driverpack-solution-online/)
-- DriverPack Solution is a free utility that scans your PC to deliver the optimal drivers for you to install. DriverPack will give you replacement programs to install after the software identifies missing and outdated drivers. The application is offered as a Network, Online, and Offline download for Microsoft Windows 10, Windows 8.1, Windows 8, Windows 7, Windows Vista, and Windows XP computers and laptops.
-
-[RWEverything 1.7](https://www.majorgeeks.com/files/details/rweverything.html)
-- You will be able to access PCI (PCI Express), PCI Index/Data, Memory, Memory Index/Data, I/O Space, I/O Index/Data, Super I/O, Clock Generator, DIMM SPD, SMBus Device, CPU MSR Registers, ATA/ATAPI Identify Data, Disk Read Write, ACPI Tables Dump (include AML decode), Embedded Controller, USB Information, SMBIOS Structures, PCI Option ROMs, MP Configuration Table, E820, EDID and Remote Access. And also, a Command Window is provided to access hardware manually.
-
-[USB Device Tree Viewer](https://www.uwe-sieber.de/english.html)
-- USB Device Tree Viewer is a small application designed to display detailed information on the USB device tree.
-
-[USB Devices Viewer](https://github.com/vurdalakov/usbdevices)
-- USB Devices Viewer is a USB information tool for advanced users to determine USB devices, hubs, controllers, events, and all their properties.
-
-[USB Historian](http://4discovery.com/our-tools/)
-- USB Historian can parse your entire USB history from the Plug And Play history in your registry.
-
-[USB Oblivion](https://www.cherubicsoft.com/en/projects/usboblivion/)
-- USB Oblivion is designed to erase all traces of USB-connected drives and CD-ROMs from the registry in Windows. Video tutorial available.
+|[Belarc Advisor for Windows](https://filehippo.com/download_belarc-advisor/post_download/)|Belarc Advisor builds a detailed profile of your installed software and hardware, including Microsoft Hotfixes and software serial numbers. After collating all the data, it then shows the results in your Web browser. All of your PC profile information is kept private on your PC and is not sent to any Web server.|
+|[DriverIdentifier for Windows](https://filehippo.com/download_driveridentifier/)|DriverIdentifier is a free system utility tool that can scan and identify missing and old drivers on your Windows computer. It provides users with a list of available driver updates that users can compare and install. DriverIdentifier download doesn’t install drivers on its own. Instead, it redirects you to the website on which the driver update is available so that you can download the latest version yourself.|
+|[Speccy for Windows](https://filehippo.com/download_speccy/)|Speccy is a free evaluation tool for Microsoft Windows PC components. The application delivers detailed system information reports on the individual software and hardware elements in the computer or laptop: ‘Audio’, ‘CPU’, ‘Graphics’, ‘Motherboard’, ‘Network’, ‘Operating System’, ‘Optical Drives’, ‘Peripherals’, ‘RAM’, and ‘Storage’. You can review a thorough summary within the first tab in the user interface.|
+|[HWiNFO for Windows](https://filehippo.com/download_hwinfo/)|HWiNFO is an app for IT professionals to check systems in real-time and to find in-depth hardware information. The app presents this information in a variety of formats. It also provides status logins, can integrate with other tools, and is also compatible with DOS systems. An alternative program to diagnose hardware problems is CPU-Z.|
+|[CPU-Z for Windows](https://filehippo.com/download_cpu-z/)|CPU-Z for Windows is a troubleshooting tool to identify PC hardware problems. You’re provided with information such as the CPU type, processing power, number of cores, architecture, clock speed, RAM and GPU details in a table format. You can scroll up and down the table to read the details of your OS systems in one convenient, centralized place.|
+|[DriverPack Solution Online for Windows](https://filehippo.com/download_driverpack-solution-online/)|DriverPack Solution is a free utility that scans your PC to deliver the optimal drivers for you to install. DriverPack will give you replacement programs to install after the software identifies missing and outdated drivers. The application is offered as a Network, Online, and Offline download for Microsoft Windows 10, Windows 8.1, Windows 8, Windows 7, Windows Vista, and Windows XP computers and laptops.|
+|[RWEverything 1.7](https://www.majorgeeks.com/files/details/rweverything.html)|You will be able to access PCI (PCI Express), PCI Index/Data, Memory, Memory Index/Data, I/O Space, I/O Index/Data, Super I/O, Clock Generator, DIMM SPD, SMBus Device, CPU MSR Registers, ATA/ATAPI Identify Data, Disk Read Write, ACPI Tables Dump (include AML decode), Embedded Controller, USB Information, SMBIOS Structures, PCI Option ROMs, MP Configuration Table, E820, EDID and Remote Access. And also, a Command Window is provided to access hardware manually.|
+|[USB Device Tree Viewer](https://www.uwe-sieber.de/english.html)|USB Device Tree Viewer is a small application designed to display detailed information on the USB device tree.|
+|[USB Devices Viewer](https://github.com/vurdalakov/usbdevices)|USB Devices Viewer is a USB information tool for advanced users to determine USB devices, hubs, controllers, events, and all their properties.|
+|[USB Historian](http://4discovery.com/our-tools/)|USB Historian can parse your entire USB history from the Plug And Play history in your registry.|
+|[USB Oblivion](https://www.cherubicsoft.com/en/projects/usboblivion/)|USB Oblivion is designed to erase all traces of USB-connected drives and CD-ROMs from the registry in Windows. Video tutorial available.|
 
 
 ## Graphics Software
 
 |Package | Description|
 |--- | ---|
-[PDF Shaper Free for Windows](https://filehippo.com/download_pfd-shaper-free/post_download/)
-- PDF editing is very simple with the various tools this utility has on offer. You can rotate or delete individual pages or layouts, extract or crop pages using custom sizes, and split or merge pages and documents. All from within an intuitive user interface.
-- Extract specified elements such as text, tables, and images.
+|[PDF Shaper Free for Windows](https://filehippo.com/download_pfd-shaper-free/post_download/)
+|PDF editing is very simple with the various tools this utility has on offer. You can rotate or delete individual pages or layouts, extract or crop pages using custom sizes, and split or merge pages and documents. All from within an intuitive user interface. Extract specified elements such as text, tables, and images.|
 
-[Graphic Design Shop for Windows](https://filehippo.com/download_graphicdesignshop/)
-- Designing graphics is easy in Window Maker, a powerful desktop publishing application from Microsoft. Design anything from complex, professional-looking icons and files for websites, brochures, business cards, mouse pads and much more. Choose from a large range of fonts and graphics, from simple patterns to elegant ones, from premade templates to ones you design yourself, with the power of dozens of paint brushes, and hundreds of effects to enhance your work. Simply make your choice, adjust the size and color of everything to taste, then save and share it with others or use it for yourself.
+|[Graphic Design Shop for Windows](https://filehippo.com/download_graphicdesignshop/)
+|Designing graphics is easy in Window Maker, a powerful desktop publishing application from Microsoft. Design anything from complex, professional-looking icons and files for websites, brochures, business cards, mouse pads and much more. Choose from a large range of fonts and graphics, from simple patterns to elegant ones, from premade templates to ones you design yourself, with the power of dozens of paint brushes, and hundreds of effects to enhance your work. Simply make your choice, adjust the size and color of everything to taste, then save and share it with others or use it for yourself.|
 
-[K-Lite Codec Pack for Windows](https://filehippo.com/download_klite-codec-pack/)
-- K-Lite Codec Pack for Windows is a suite of audio and video codecs that allows the operating system software to play a massive number of multimedia formats that the OS doesn’t usually support. It also includes various related extra tools in the form of tweaks and options to further boost the viewing and listening experience.
+|[K-Lite Codec Pack for Windows](https://filehippo.com/download_klite-codec-pack/)
+|K-Lite Codec Pack for Windows is a suite of audio and video codecs that allows the operating system software to play a massive number of multimedia formats that the OS doesn’t usually support. It also includes various related extra tools in the form of tweaks and options to further boost the viewing and listening experience.|
 
-[XMedia Recode](https://xmedia-recode.de/en/)
-- XMedia Recode can convert almost all known audio and video formats, including 3GP, 3GPP, 3GPP2, AAC, AC3, ADTS, AMR, ASF, AVI, AVISynth, DVD, FLAC, FLV, H.261, H.263, H.264, H.265, M4A , M1V, M2V, M4V, Matroska (MKV), MMF, MPEG-1, MPEG-2, MPEG-4, TS, TRP, MP2, MP3, MP4, MP4V, MOV, QT, OGG, PSP, RM, (S ) VCD, SWF, VOB, WAV, WebM, WMA and WMV.
+|[XMedia Recode](https://xmedia-recode.de/en/)
+|XMedia Recode can convert almost all known audio and video formats, including 3GP, 3GPP, 3GPP2, AAC, AC3, ADTS, AMR, ASF, AVI, AVISynth, DVD, FLAC, FLV, H.261, H.263, H.264, H.265, M4A , M1V, M2V, M4V, Matroska (MKV), MMF, MPEG-1, MPEG-2, MPEG-4, TS, TRP, MP2, MP3, MP4, MP4V, MOV, QT, OGG, PSP, RM, (S ) VCD, SWF, VOB, WAV, WebM, WMA and WMV.|
 
-[Format Factory for Windows](https://filehippo.com/download_format-factory/)
-- Format Factory is a leading file conversion software that lets you convert video and audio files from one format to another. Since most tools allow conversions for limited file types, this program is considered to be an excellent choice. It’s a multi-purpose application, letting you convert a wide range of file formats. As such, you can use the software to work with documents, audio tracks, video files, and the like.
+|[Format Factory for Windows](https://filehippo.com/download_format-factory/)
+|Format Factory is a leading file conversion software that lets you convert video and audio files from one format to another. Since most tools allow conversions for limited file types, this program is considered to be an excellent choice. It’s a multi-purpose application, letting you convert a wide range of file formats. As such, you can use the software to work with documents, audio tracks, video files, and the like.|
 
-[OpenShot Video Editor](https://www.openshot.org/)
-- We designed OpenShot Video Editor to be an easy to use, quick to learn, and surprisingly powerful video editor. Take a quick look at some of our most popular features and capabilities.
+|[OpenShot Video Editor](https://www.openshot.org/)
+|We designed OpenShot Video Editor to be an easy to use, quick to learn, and surprisingly powerful video editor. Take a quick look at some of our most popular features and capabilities.|
 
-[Blender 3d](https://www.blender.org/)
-- Blender's mission is to bring the best 3D technology as tools in the hands of artists, for all platforms, everywhere in the world, free and open source forever.
+|[Blender 3d](https://www.blender.org/)|
+Blender's mission is to bring the best 3D technology as tools in the hands of artists, for all platforms, everywhere in the world, free and open source forever.|
+|[Inkscape](https://inkscape.org/)
+|Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.|
 
-[Inkscape](https://inkscape.org/)
-- Inkscape is an open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape apart is its use of Scalable Vector Graphics (SVG), an open XML-based W3C standard, as the native format.
-
-[Google Web Designer](https://webdesigner.withgoogle.com/)
-- Google Web Designer gives you the power to create beautiful, engaging HTML5 content. Use animation and interactive elements to bring your creative vision to life, and enjoy seamless integration with other Google products, like Google Drive, Display & Video 360, and Google Ads.
+|[Google Web Designer](https://webdesigner.withgoogle.com/)
+|Google Web Designer gives you the power to create beautiful, engaging HTML5 content. Use animation and interactive elements to bring your creative vision to life, and enjoy seamless integration with other Google products, like Google Drive, Display & Video 360, and Google Ads.|
 
 
 ## ISO Tools
 
 |Package | Description|
 |--- | ---|
-[UUP dump](https://uupdump.net/)
-- Download UUP files from Windows Update servers with ease.
+|[UUP dump](https://uupdump.net/)|Download UUP files from Windows Update servers with ease.|
 
 
 ## USB Tools
