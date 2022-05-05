@@ -177,7 +177,7 @@
 
 |Package | Description|
 |--- | ---|
-|Lazesoft Recovery Suite Home Edition](https://www.lazesoft.com/index.html)|Lazesoft Recovery Suite is useful when you need to recover your data, files, or Windows operating system, or when your computer will not start normally.|
+|[Lazesoft Recovery Suite Home Edition](https://www.lazesoft.com/index.html)|Lazesoft Recovery Suite is useful when you need to recover your data, files, or Windows operating system, or when your computer will not start normally.|
 |[UndeleteMyFiles Pro](https://seriousbit.com/undeletemyfiles)|UndeleteMyFiles is a quick and easy way to find and recover deleted media and digital devices.It employs a simplified two-step process that enables you recover any files that used to reside on your system.|
 |[ShadowCopyView](https://www.nirsoft.net/utils/shadow_copy_view.html)|ShadowCopyView is simple tool for Windows 10/8/7/Vista that lists the snapshots of your hard drive created by the 'Volume Shadow Copy' service of Windows.|
 |[Glary Utilities](https://www.glarysoft.com/)|The Glary Undelete application was designed to be an easy-to-use yet powerful data recovery solution for FAT and NTFS file systems.|
@@ -196,19 +196,20 @@
 
 
 ## General Tools
+
 |Package | Description|
 |--- | ---|
 |[Dns Jumper v2.2](https://www.sordum.org/7952/)|In some cases, you can improve browsing speed and/or improve your security by replacing the DNS provided by your internet service provider. DNS Jumper is a tool which makes this easy for you.|
 |[dnsperf.com](https://www.dnsperf.com/#!dns-resolvers,Oceania)|DNS Performance Checker.|
-|[Free HTML Editor](https://www.coffeecup.com/free-editor/)||
+|[Free HTML Editor](https://www.coffeecup.com/free-editor/)| |
 
 
 ## Domain Tools
 |Package | Description|
 |--- | ---|
-|[https://tld-list.com/tld/me](https://tld-list.com/tld/me)||
-|https://www.domnest.com/tld/me||
-|https://www.domcomp.com/tld/me||
+|[https://tld-list.com/tld/me](https://tld-list.com/tld/me)| |
+|[https://www.domnest.com/tld/me](https://www.domnest.com/tld/me)| |
+|[https://www.domcomp.com/tld/me](https://www.domcomp.com/tld/me)| |
 
 
 ## Open Data & APIs
