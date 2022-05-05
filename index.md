@@ -226,7 +226,8 @@ Trusted Automated Exchange of Intelligence Information (TAXII™) is an applicat
 [Hide.Me](https://hide.me/en/proxy)
 - Our free Web proxy allows you to unblock any blocked website. Just type the website address in the box and access any site you want.
 
-|Package|Description|
+|Package | Description|
+|--- |--- |
 |[Brave for Windows](https://filehippo.com/download_brave-browser/)|Brave is the brainchild of Brendan Eich (co-founder of the Mozilla Project). It’s a ultra secure, open source web browser that is based upon Chromium/Blink engine, and it aims to block website trackers and remove intrusive internet ads. In doing so, it will replace them with ads that are sold by Eich's company.|
 |[TorBrowser](https://www.torproject.org/download/)|Defend yourself. Protect yourself against tracking, surveillance, and censorship.|
 |[Hide.Me](https://hide.me/en/proxy)|Our free Web proxy allows you to unblock any blocked website. Just type the website address in the box and access any site you want.|
