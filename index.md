@@ -62,8 +62,6 @@
 |--- | ---|
 |`Rufus for Windows` (https://rufus.ie/en/)|Rufus is a free, crowdsourced resource for creating bootable USBs. The program only works on Windows, but it can create ISO for software installation that works on Mac, Linux, and other operating systems. It also helps you to be able to import a new OS onto a computer that has none or an incomplete system step through a USB.|
 |[RMPrepUSB](https://rmprepusb.com/)|RMPrepUSB is a Windows 32-bit utility to partition and format a drive (especially USB drives).|
-|[Ventoy](https://www.ventoy.net/en/index.html)|A New Bootable USB Solution.|
-|[Ventoy WimISO](https://github.com/ventoy/wimiso/releases)||
 |[Microsoft Windows and Office ISO Download Tool](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool)|This tool allows an easy and comfortable way to download genuine Windows 7, Windows 8.1 and Windows 10 disk images (ISO) directly from Microsoft's servers, as well as Office 2010, Office 2013, Office 2016, Office 2019, Expression Studio and Office for Mac.|
 |[theoven.org](https://theoven.org/)|Win10XPE Homepage - Win10XPE Home Forum and Support|
 |[WAIK Tools w/o downloading the huge ISOs](https://msfn.org/board/topic/156869-get-waik-tools-wo-downloading-the-huge-isos/)|Win10XPE Homepage - Win10XPE Home Forum and Support|
@@ -75,8 +73,8 @@
 |[Easy2Boot](http://www.easy2boot.xyz/)|E2B – the free USB multiboot solution for professionals - Legacy/UEFI64/UEFI32/Secure Boot.|
 |[YUMI 0.0.4.3 UEFI / 2.0.9.3 BIOS](https://www.pendrivelinux.com/)|YUMI helps create a multiboot USB flash drive containing multiple operating systems, antivirus utilities, diagnostic tools, disc cloning, and more.|
 |[WinToFlash](http://wintoflash.com/home/en/)|WinToFlash is powerful app for bootable USB creation with millions of satisfied users all around the globe.|
-|[RMPrepUSB](https://rmprepusb.com/)|RMPrepUSB is a Windows 32-bit utility to partition and format a drive (especially USB drives).|
-
+|[notsure-Ventoy](https://www.ventoy.net/en/index.html)|A New Bootable USB Solution.|
+|[notsure-Ventoy WimISO](https://github.com/ventoy/wimiso/releases)||
 
 ## Data Analysis
 
