@@ -221,6 +221,13 @@
 |(https://securityintelligence.com/articles/10-open-source-intelligence-tools-existing-security-software/)||
 
 
+## Other stuff
+|Package | Description|
+|--- | ---|
+|[Office-2021-direct-download-links](https://www.heidoc.net/joomla/technology-science/microsoft/16-office-2021-direct-download-links)||
+|([How to install and use Project / Visio (2016/2019/2021) without product key](https://msguides.com/project-visio))||
+|[Sergei Strelec ISO Toolkit](https://sergeistrelec.ru/winpe-10-8-sergei-strelec-english/print:page,1,214-winpe-10-8-sergei-strelec-x86-x64-native-x86-20220103-english-version.html)||
+
 
 [FILENAMEREPLACE](LINKREPLACE)
 - DESCRIPTIONREPLACE
