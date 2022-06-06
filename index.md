@@ -31,6 +31,7 @@
 |[USB Devices Viewer](https://github.com/vurdalakov/usbdevices)|USB Devices Viewer is a USB information tool for advanced users to determine USB devices, hubs, controllers, events, and all their properties.|
 |[USB Historian](http://4discovery.com/our-tools/)|USB Historian can parse your entire USB history from the Plug And Play history in your registry.|
 |[USB Oblivion](https://www.cherubicsoft.com/en/projects/usboblivion/)|USB Oblivion is designed to erase all traces of USB-connected drives and CD-ROMs from the registry in Windows. Video tutorial available.|
+|[ShowKeyPlus](https://github.com/Superfly-Inc/ShowKeyPlus/releases)Retrieve OS License Keys.|
 
 
 ## Graphics Software
